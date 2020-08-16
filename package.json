@@ -1,0 +1,21 @@
+{
+  "name": " ",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": "",
+  "license": "",
+  "author": "",
+  "scripts": {
+    "build": "parcel build index.html",
+    "dev": "parcel index.html --open",
+    "start": "npm run build && npm run dev && lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4",
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "bootstrap-social": "^5.1.1"
+  }
+}
