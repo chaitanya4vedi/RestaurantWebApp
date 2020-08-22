@@ -11,7 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74b40f5e-3b50-4986-b263-b4ddc19aa342" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +38,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.8.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.6.0" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -40,7 +47,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunManager">
     <configuration name="localhost:1234" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:1234">
@@ -64,7 +71,11 @@
       <workItem from="1597595315826" duration="5523000" />
       <workItem from="1597637194822" duration="5229000" />
       <workItem from="1597644270291" duration="2490000" />
-      <workItem from="1597660586086" duration="8509000" />
+      <workItem from="1597660586086" duration="23444000" />
+      <workItem from="1597728995612" duration="1649000" />
+      <workItem from="1597737853491" duration="781000" />
+      <workItem from="1597762511528" duration="937000" />
+      <workItem from="1598072541682" duration="1904000" />
     </task>
     <servers />
   </component>
@@ -148,9 +159,13 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state width="597" height="214" key="GridCell.Tab.2.right/72.27.1294.741@72.27.1294.741" timestamp="1597602230120" />
-    <state x="-299" y="31" width="962" height="737" key="SettingsEditor" timestamp="1597594687454">
+    <state x="72" y="31" width="962" height="737" key="SettingsEditor" timestamp="1597763372615">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="-299" y="31" width="962" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1597594687454" />
+    <state x="72" y="31" width="962" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1597763372615" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1597762576139">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/72.27.1294.741@72.27.1294.741" timestamp="1597762576139" />
   </component>
 </project>

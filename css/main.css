@@ -44,6 +44,13 @@ h1 {
   min-height: 400px;
 }
 
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+}
+
 .footer {
   background-color: #D1C4E9;
   margin: 0 auto;
@@ -67,6 +74,7 @@ html {
   color: #222;
   font-size: 1em;
   line-height: 1.4;
+  scroll-behavior: smooth;
 }
 
 
